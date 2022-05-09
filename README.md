@@ -1,6 +1,9 @@
 Music 128 - Final Project by Julia Isaac & Joel Cisneros
 -------------------------------------------------------
 
+## QUICK ACCESS TO CODE:
+Go to experiments --> duet_dataloader
+
 ## Structure of the Repo
 
 - The `docs` folder has our website code including Javascript code to interpolate between different audio files in realtime.
